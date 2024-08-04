@@ -24,8 +24,8 @@ A brief description of this project, highlighting its purpose and technologies u
 
 Feel free to connect with me through:
 
-- [LinkedIn]([[link-to-your-linkedin](https://www.linkedin.com/in/belal-tamer-hegab-2330992b6/)])
-- [GitHub](link-to-your-github)
+- [LinkedIn](www.linkedin.com/in/belal-tamer-hegab-2330992b6)
+- [GitHub](https://github.com/Belal-C101)
 - [Email](belaltamerhegab@gmail.com)
 
 Thank you for visiting my profile!
