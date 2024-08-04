@@ -11,6 +11,7 @@
     <div class="container">
         <div class="sidebar">
             <img src="E:\\Projects\\General\\HTML\\Belal.jpg" alt="Belal Tamer">
+![Belal](https://github.com/user-attachments/assets/24c74d3f-9a38-4f9f-af26-f47e202d908b)
         </div>
         <div class="main-content">
             <p>Hi, I'm Belal Tamer. With 5 years of programming experience, I specialize in Python, app development, and web development. My passion for technology drives me to continuously learn and adapt, creating innovative solutions and applications.</p>
