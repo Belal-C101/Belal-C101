@@ -3,6 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .sidebar img {
+            width: 200px; /* Size of the image */
+            height: 200px; /* Size of the image */
+            border-radius: 50%;
+            border: 3px solid #007bff;
+            object-fit: cover;
+            </style>
 </head>
 <body>
     <div class="top-bar">
