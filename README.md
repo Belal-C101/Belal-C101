@@ -3,14 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .sidebar img {
-            width: 200px; /* Size of the image */
-            height: 200px; /* Size of the image */
-            border-radius: 50%;
-            border: 3px solid #007bff;
-            object-fit: cover;
-            </style>
 </head>
 <body>
     <div class="top-bar">
@@ -18,7 +10,7 @@
     </div>
     <div class="container">
         <div class="sidebar">
-            <img src="https://github.com/user-attachments/assets/24c74d3f-9a38-4f9f-af26-f47e202d908b" alt="Belal Tamer">
+<!--             <img src="https://github.com/user-attachments/assets/24c74d3f-9a38-4f9f-af26-f47e202d908b" alt="Belal Tamer"> -->
         </div>
         <div class="main-content">
             <p>Hi, I'm Belal Tamer. With 5 years of programming experience, I specialize in Python, app development, and web development. My passion for technology drives me to continuously learn and adapt, creating innovative solutions and applications.</p>
