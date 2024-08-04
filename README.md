@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Belal Tamer's Profile</title>
-    
 </head>
 <body>
     <div class="top-bar">
@@ -12,7 +10,7 @@
     </div>
     <div class="container">
         <div class="sidebar">
-            <img src="E:\Projects\General\HTML\Belal.jpg" alt="Belal Tamer">
+            <img src="E:\\Projects\\General\\HTML\\Belal.jpg" alt="Belal Tamer">
         </div>
         <div class="main-content">
             <p>Hi, I'm Belal Tamer. With 5 years of programming experience, I specialize in Python, app development, and web development. My passion for technology drives me to continuously learn and adapt, creating innovative solutions and applications.</p>
