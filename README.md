@@ -23,7 +23,9 @@
             <h2>Get In Touch</h2>
             <div class="links">
                 <a href="mailto:belaltamerhegab@gmail.com" target="_blank">Email</a>
+                <br>
                 <a href="https://github.com/Belal-C101" target="_blank">GitHub</a>
+                <br>
                 <a href="https://www.linkedin.com/in/belal-tamer-hegab-2330992b6" target="_blank">LinkedIn</a>
             </div>
         </div>
